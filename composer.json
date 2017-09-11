@@ -1,0 +1,8 @@
+{
+    "name": "kd35fighter/composer",
+    "description": "this is a study project",
+    "type": "pro[]:project",
+    "license": "MIT",
+    "minimum-stability": "dev",
+    "require": {}
+}
